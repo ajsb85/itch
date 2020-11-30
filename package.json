@@ -118,7 +118,7 @@
     "chai": "^4.1.2",
     "chai-as-promised": "^7.1.1",
     "clarify": "^2.1.0",
-    "codecov": "^3.0.2",
+    "codecov": "^3.7.1",
     "cross-env": "^5.2.0",
     "css-loader": "^0.28.11",
     "electron": "^2.0.8",
